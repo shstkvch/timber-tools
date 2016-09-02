@@ -3,7 +3,7 @@
  * Plugin name: Timber Tools
  * Plugin author: David Hewitson (shstkvch)
  * Description: Common helper functions for working with Timber
- * Version: 1
+ * Version: 0.2
  */
 
 class TimberTools {
